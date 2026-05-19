@@ -1,2 +1,2 @@
 # penpot-test
-Test d'export Penpot
+Test d'export à partir de Penpot
